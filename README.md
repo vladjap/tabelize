@@ -1,2 +1,4 @@
 # tabelize
-Convert existing SQL code to sequalize code
+
+With tabelize you can convert your existing SQL database to sequalize code.
+
